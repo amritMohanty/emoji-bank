@@ -11,3 +11,15 @@ h1{
   width: 600px;
   height: 50px;
 }
+
+
+.list-item-inline{
+  display:inline;
+  padding: 0rem 1rem;
+}
+
+.list-item-inline:hover{
+  background-color: rgb(190, 255, 233);
+  cursor: pointer;
+  border-radius: 5px;
+}
