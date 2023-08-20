@@ -1,4 +1,4 @@
-#[hosted link to the deployed site](https://emoji-bank.netlify.app)
+# [hosted link to the deployed site](https://emoji-bank.netlify.app)
 
 # Getting Started with Create React App
 
