@@ -140,7 +140,6 @@ const emojiDictionary = {
 "🤬":"Face with Symbols on Mouth",
 "👿":"Angry Face with Horns",
 "😈":"Smiling Face with Horns",
-"👿":"Angry Face with Horns",
 "💀":"Skull",
 "☠️":"Skull and Crossbones",
 "💩":"Pile of Poo",
